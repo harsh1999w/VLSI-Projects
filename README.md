@@ -7,6 +7,6 @@ This repository contains my VLSI lab projects in Verilog.
 - Files: half_adder.v + testbench
 - Tool: EDA Playground / Vivado
 
-More projects will be added as I learn.
----
-Aspiring VLSI Engineer
+### Project 2: Full Adder
+- Implemented using 2 Half Adders logic
+- Files: full_adder.v + tb_full_adder.v
