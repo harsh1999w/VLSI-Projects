@@ -1,7 +1,12 @@
-# VLSI-Projects
-My verilog codes for VLSI lab
+# VLSI-Projects - RTL Design using Verilog
 
-## 1. Half Adder
-- Verilog code for Half Adder using dataflow modeling
-- Inputs: a, b
-- Outputs: sum, carry
+This repository contains my VLSI lab projects in Verilog.
+
+### Project 1: Half Adder
+- Implemented using Dataflow modeling
+- Files: half_adder.v + testbench
+- Tool: EDA Playground / Vivado
+
+More projects will be added as I learn.
+---
+Aspiring VLSI Engineer
