@@ -17,3 +17,9 @@ This repository contains my VLSI lab projects in Verilog.
 - Files: alu_4bit.v + testbench
 - Tool: EDA Playground (Icarus Verilog) / EPWave
 - Verified with simulation and waveforms
+
+### Project 4: 4:1 Multiplexer
+- Implemented 4:1 MUX using behavioral modeling
+- Files: mux_4to1.v + testbench
+- Tool: EDA Playground (Icarus Verilog) / EPWave
+- Verified with simulation and waveforms
