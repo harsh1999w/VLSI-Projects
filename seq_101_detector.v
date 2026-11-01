@@ -1,4 +1,4 @@
-// 101 Overlapping Sequence Detector using Mealy FSM
+// 101 Overlapping Sequence Detector using Moore FSM
 // Description: Detects overlapping 101 pattern
 
 module seq_101_detector (
