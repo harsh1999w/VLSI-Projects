@@ -5,7 +5,8 @@ This repository contains my VLSI lab projects in Verilog.
 ### Project 1: Half Adder
 - Implemented using Dataflow modeling
 - Files: half_adder.v 
-- Tool: EDA Playground 
+- Tool: EDA Playground
+- Verified with Testbench - all 4 cases checked
 
 ### Project 2: Full Adder
 - Implemented using 2 Half Adders logic
